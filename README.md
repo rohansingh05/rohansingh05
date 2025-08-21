@@ -1,7 +1,5 @@
 <h1>Hey there, I'm Rohan Singh 👋</h1>
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+Developer;🎓+CSE+Student" alt="Typing Animation" />
-</h1>
+<h3 align="center">🚀 Aspiring Full-Stack Developer | 🎓 CSE Student</h3> 
 
 <p align="center">
   <a href="https://github.com/your-username"><img src="https://img.shields.io/github/followers/rohansingh05?style=social" /></a>

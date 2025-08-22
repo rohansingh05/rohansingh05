@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me 
 
-Hi, I’m Rohan Singh, a **second-year Computer Science** student at Coochbehar Government Engineering College.
+Hi, I’m **Rohan Singh**, a **second-year Computer Science** student at Coochbehar Government Engineering College.
 
 I aspire to become a **Software Engineer** and I’m actively building my skills by learning and working on real projects. My current focus areas are:
 

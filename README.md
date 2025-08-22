@@ -1,5 +1,10 @@
 <h1>Hey there, I'm Rohan Singh 👋</h1>
-<h3 align="center">🚀 Aspiring Full-Stack Developer | 🎓 CSE Student</h3> 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=FF6F61&center=true&vCenter=true&width=900&lines=Aspiring+Full-Stack+Developer;GSSoC'25+Participant;Passionate+About+Coding+%26+Problem-Solving;Future+Software+Engineer" alt="Typing Animation" />
+</div>
+
+
+
 
 <p align="center">
   <a href="https://github.com/your-username"><img src="https://img.shields.io/github/followers/rohansingh05?style=social" /></a>

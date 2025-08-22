@@ -12,13 +12,19 @@
 
 ## 👨‍💻 About Me 
 
-I’m **Rohan Singh**, a second-year **Computer Science and Engineering student** passionate about coding and problem-solving.  
-I enjoy exploring new technologies and building projects that improve my skills.  
+Hi, I’m Rohan Singh, a second-year **Computer Science** student at **Coochbehar Government Engineering College**.
 
-- 🌱 Currently exploring **Full-Stack Web Development** and **Data Structures & Algorithms (DSA)**  
-- 💻 Aspiring to become a **Software Developer**, where these skills will play a big role  
-- 🚀 Contributor at **GSSoC'25**, which helps me sharpen my development skills  
-- 🎯 Hobbies: I enjoy **chess**, **singing**, and solving **sudoku**  
+I aspire to become a Software Engineer and I’m actively building my skills by learning and working on real projects. My current focus areas are:
+
+- 🌐 Web Development (Frontend & Backend)
+
+- 📊 Data Structures and Algorithms (DSA)
+
+- 🔧 Git & GitHub for project sharing and collaboration
+
+I am also a participant in GirlScript Summer of Code (GSSoC 2025), where I am contributing to open-source projects and gaining valuable experience.
+
+🎯 My ultimate goal is to secure a role at top tech companies like Google or Microsoft, where I can contribute to impactful projects and grow as a developer.
 
 ---
 

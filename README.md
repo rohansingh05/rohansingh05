@@ -1,6 +1,6 @@
 <h1>Hey there, I'm Rohan Singh 👋</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=FF6F61&center=true&vCenter=true&width=900&lines=Aspiring+Full-Stack+Developer;GSSoC'25+Participant;Passionate+About+Coding+%26+Problem-Solving;Future+Software+Engineer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=FF6F61&center=true&vCenter=true&width=900&lines=Aspiring+Full-Stack+Developer;Passionate+About+Coding+%26+Problem-Solving;Future+Software+Engineer" alt="Typing Animation" />
 </div>
 
 

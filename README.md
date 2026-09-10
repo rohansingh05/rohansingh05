@@ -28,6 +28,34 @@ Hey, my name is Rohan Singh. I am a 2nd-year CSE student currently pursuing my B
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=rohansingh05&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🧩 Problem Solving
+
+### LeetCode Stats
+<p align="center">
+  <a href="https://leetcode.com/u/RohanTechie/">
+    <img src="https://leetcard.jacoblin.cool/RohanTechie?theme=dark&ext=heatmap" alt="LeetCode Profile" width="70%"/>
+  </a>
+</p>
+
+### Codeforces Stats
+<p align="center">
+  <a href="https://codeforces.com/profile/rohanleath">
+    <img src="https://codeforces-stats.tashif.codes/rohanleath/stats/svg?theme=dark" alt="Codeforces Stats"/>
+  </a>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/rohansingh05"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/RohanTechie/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://codeforces.com/profile/rohanleath"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+</p>
+
+---
+
+⭐ Thank you for visiting my profile! Let's connect and build something awesome together 😊
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,7 +1,8 @@
 <h1>Hey there, I'm Rohan Singh 👋</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=FF6F61&center=true&vCenter=true&width=900&lines=Aspiring+Full-Stack+Developer;Passionate+About+Coding+%26+Problem-Solving;Future+Software+Engineer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1200&color=2F80ED&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+Computer+Science+Student;Building+Scalable+Web+Applications;Problem+Solver+%7C+Competitive+Programmer;Aspiring+Software+Development+Engineer" alt="Typing Animation" />
 </div>
+
 
 <div align="center">
   
@@ -9,23 +10,31 @@
 </div>
 
 ## 💫 About Me:
-Hey, my name is Rohan Singh. I am a 2nd-year CSE student currently pursuing my B.Tech at a tier-3 college. To secure a great placement at a top tech company, I am focusing heavily on full-stack web development. Additionally, to prepare for technical interviews, I actively practice competitive programming and problem-solving on LeetCode and Codeforces.
-
-
+Third-year Computer Science student pursuing a B.Tech. with a strong passion for technology, problem-solving, and software development. I have built a solid foundation in core Computer Science concepts and developed a strong interest in web development, with hands-on experience in building modern and user-friendly websites. I enjoy learning new technologies, taking on challenging problems, and turning ideas into practical solutions. Aspiring to begin my career as a Software Development Engineer at a respected organization where I can contribute, learn from talented people, and grow into a skilled and impactful software engineer.
 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rohansingh05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=rohansingh05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rohansingh05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 🚀 GitHub Analytics Dashboard
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rohansingh05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohansingh05&theme=radical" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohansingh05&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohansingh05&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohansingh05&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohansingh05&theme=radical&utcOffset=5.5" />
+</p>
+
+# ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
 
 ---
 ## 🧩 Problem Solving

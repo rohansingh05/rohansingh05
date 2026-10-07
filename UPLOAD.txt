@@ -1,0 +1,38 @@
+Upload this complete folder to the repository root:
+
+rohan_github_profile/
+├── README.md
+├── preview.html
+├── manifest.json
+├── VERIFY.md
+├── assets/
+│   ├── hero.svg
+│   ├── hero-static.svg
+│   ├── about-life.svg
+│   ├── about-life-static.svg
+│   ├── stack.svg
+│   ├── stack-static.svg
+│   ├── id-dashboard.svg
+│   ├── id-dashboard-static.svg
+│   ├── connect.svg
+│   ├── connect-static.svg
+│   ├── id.png
+│   └── right_pointing.png
+├── previews/
+│   ├── hero-0s.png … hero-13s.png + hero-static.png
+│   ├── about-life-0s.png … about-life-13s.png + about-life-static.png
+│   ├── stack-0s.png … stack-13s.png + stack-static.png
+│   ├── id-dashboard-0s.png … id-dashboard-13s.png + id-dashboard-static.png
+│   └── connect-0s.png … connect-13s.png + connect-static.png
+└── vendor/
+    ├── Comfortaa-Bold.woff2
+    ├── Comfortaa-OFL-1.1.txt
+    ├── Cousine-Regular.woff2
+    └── Cousine-OFL-1.1.txt
+
+The five paths that the README actually embeds are:
+assets/hero.svg?v=1
+assets/about-life.svg?v=1
+assets/stack.svg?v=1
+assets/id-dashboard.svg?v=1
+assets/connect.svg?v=1

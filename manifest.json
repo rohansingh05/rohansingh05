@@ -1,0 +1,30 @@
+{
+  "name": "Rohan Singh animated GitHub profile",
+  "readme_assets": [
+    "assets/hero.svg?v=1",
+    "assets/about-life.svg?v=1",
+    "assets/stack.svg?v=1",
+    "assets/id-dashboard.svg?v=1",
+    "assets/connect.svg?v=1"
+  ],
+  "portrait": "assets/id.png",
+  "connect_character": "assets/right_pointing.png",
+  "links": {
+    "github": "https://github.com/rohansingh05",
+    "linkedin": "https://www.linkedin.com/in/r0han-s1ngh",
+    "instagram": "https://www.instagram.com/the_smart_coder",
+    "leetcode": "https://leetcode.com/u/RohanTechie",
+    "codeforces": "https://codeforces.com/profile/rohanleath",
+    "birthday": "https://rohansingh05.github.io/Birthday-wish/",
+    "todo": "https://rohansingh05.github.io/iTask-todo/"
+  },
+  "svg_constraints": [
+    "CSS",
+    "SMIL",
+    "inline PNG",
+    "inline WOFF2",
+    "no JavaScript",
+    "no foreignObject",
+    "no external asset requests"
+  ]
+}

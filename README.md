@@ -11,7 +11,11 @@
 </div>
 
 ## 💫 About Me:
-Third-year Computer Science student pursuing a B.Tech. with a strong passion for technology, problem-solving, and software development. I have built a solid foundation in core Computer Science concepts and developed a strong interest in web development, with hands-on experience in building modern and user-friendly websites. I enjoy learning new technologies, taking on challenging problems, and turning ideas into practical solutions. Aspiring to begin my career as a Software Development Engineer at a respected organization where I can contribute, learn from talented people, and grow into a skilled and impactful software engineer.
+- 🎓 Third-year Computer Science student pursuing a B.Tech., with a strong passion for technology, problem-solving, and software development.
+- 💻 Built a solid foundation in core Computer Science concepts with a strong interest in web development and hands-on experience creating modern, user-friendly websites.
+- 🚀 Enjoy learning new technologies, tackling challenging problems, and transforming ideas into practical and impactful solutions.
+- 🌱 Aspiring to begin my career as a Software Development Engineer (SDE) at a respected organization where I can contribute, learn from talented professionals, and continuously grow.
+- 🎯 Passionate about becoming a skilled, innovative, and impactful software engineer while creating meaningful solutions through technology.
 
 
 # 💻 Tech Stack:
